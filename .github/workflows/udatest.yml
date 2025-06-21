@@ -4,7 +4,7 @@ Resources:
   UdaBucket:
     Type: AWS::S3::Bucket
     Properties:
-      BucketName: uda-iye-bucket
+      BucketName: uda-iye-bucket-anant
 
       WebsiteConfiguration:
         IndexDocument: index.html
